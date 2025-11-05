@@ -25,6 +25,7 @@ This project is licensed under the MIT License - feel free to use it in your own
 - Advanced Python programming best practices
 ## Screenshots
 ![PDF to Text Converter Output](screenshots/Screenshot 2025-11-05 115023.png)
+<img width="1783" height="1453" alt="Screenshot 2025-11-05 115023" src="https://github.com/user-attachments/assets/16ea2a1c-9e55-4c5c-964c-a5bb083223f7" />
 **Last Updated**: November 2025  
 **Version**: 1.0.0  
 **Status**: Production Ready

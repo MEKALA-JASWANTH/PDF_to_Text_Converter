@@ -24,10 +24,7 @@ This project is licensed under the MIT License - feel free to use it in your own
 - Python Tkinter community for GUI resources
 - Advanced Python programming best practices
 ## Screenshots
-![Main PDF to Text Converter Output](screenshots/image.jpg)
-
-![Main Output GUI](screenshots/Screenshot-2025-11-05-115023.jpg)
-
+![PDF to Text Converter Output](screenshots/Screenshot-2025-11-05-115023.jpg)
 **Last Updated**: November 2025  
 **Version**: 1.0.0  
 **Status**: Production Ready

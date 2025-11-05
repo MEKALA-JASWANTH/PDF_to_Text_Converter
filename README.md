@@ -32,7 +32,7 @@ This project is licensed under the MIT License - feel free to use it in your own
 - Advanced Python programming best practices
 
 ## Screenshots
-![Main Output](screenshots/image.jpg)
+![Main PDF to Text Converter Output](screenshots/image.jpg)
 
 **Last Updated**: November 2025  
 **Version**: 1.0.0  

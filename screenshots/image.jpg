@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta name="min-version" content="1762299276986"><meta name="version" content="052adab"><meta charset="utf-8"/><meta name="theme-color" media="(prefers-color-scheme: light)" content="#FCFCF9"/><meta name="theme-color" media="(prefers-color-scheme: dark)" content="#100E12"/><style>html{background-color:#fcfcf9}@media (prefers-color-scheme:light){html:not([data-color-scheme]){background-color:#fcfcf9}}@media (prefers-color-scheme:dark){html:not([data-color-scheme]){background-color:#100e12}}html[data-color-scheme=light]{background-color:#fcfcf9!important}html[data-color-scheme=dark]{background-color:#100e12!important}</style><script>!function(){"use strict";var e;if(!document.documentElement.dataset.colorScheme){const t=null==(e=document.cookie.match(/colorScheme=([^;]+)/))?void 0:e[1];t&&document.documentElement.setAttribute("data-color-scheme",t)}}()</script><title>Perplexity</title><meta name="viewport" content="width=device-width,initial-scale=1"/><script type="module" crossorigin src="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/index.html-cG1Ci4PB.js"></script><link rel="modulepreload" crossorigin href="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/vite-Ci0EohlI.js"><link rel="modulepreload" crossorigin href="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/vendors-XDD8RUfy.js"><link rel="modulepreload" crossorigin href="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/platform-DSdPKDH6.js"><link rel="modulepreload" crossorigin href="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/icons-BFVyLVvN.js"><link rel="modulepreload" crossorigin href="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/i18n-B-yUj4sf.js"><link rel="modulepreload" crossorigin href="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/platform-components-C9WWCGVF.js"><link rel="stylesheet" crossorigin href="https://pplx-next-static-public.perplexity.ai/_spa-aux/assets/index-C23hwKGh.css">
+    <title>Perplexity</title>
+<meta property="og:title" content="Perplexity" />
+<meta name="twitter:title" content="Perplexity" />
+<meta name="description" content="Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question." />
+<meta property="og:description" content="Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question." />
+<meta name="twitter:description" content="Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question." />
+<meta name="author" content="mialua" />
+<meta property="og:url" content="https://www.perplexity.ai/internal/upload/image.jpg" />
+<link rel="canonical" href="https://www.perplexity.ai/internal/upload/image.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Perplexity AI" />
+<meta property="og:image" content="https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@perplexity_ai" />
+<meta name="twitter:creator" content="@mialua" />
+<meta name="twitter:image" content="https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png" />
+<meta name="robots" content="noindex,nofollow" />
+<meta name="color-scheme" content="light" />
+    </head>
+    <body class="md:bg-underlay bg-transparent"><main id="root"></main></body></html>
